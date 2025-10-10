@@ -3,9 +3,8 @@ while True:
     print("bonjour au monde entier!")
     break
 
-if True:
+while True:
     print("Hallo Welt")
-else:
     print("Hello world!")
 
 
