@@ -1,9 +1,10 @@
-if True:
+while True:
     print("Ciao Mondo!")
-else:
-    print("bonjour au monde entier!")
+    break
 
-if true:
+print("bonjour au monde entier!")
+
+if True:
     print("Hallo Welt")
 else:
     print("Hello world!")
