@@ -1,7 +1,10 @@
 print("Ciao Mondo!")
 print("bonjour au monde entier!")
 
-print("Hello world!")
-print("Hallo Welt")
+if true:
+    print("Hallo Welt")
+else:
+    print("Hello world!")
+
 
 
