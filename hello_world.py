@@ -6,3 +6,7 @@ if True:
 else:
     for i in range(3):
         print("boh!")
+
+while True:
+    print("ciao")
+    break
