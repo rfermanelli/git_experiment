@@ -1,8 +1,7 @@
 while True:
     print("Ciao Mondo!")
+    print("bonjour au monde entier!")
     break
-
-print("bonjour au monde entier!")
 
 if True:
     print("Hallo Welt")
