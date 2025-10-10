@@ -13,5 +13,10 @@ if False:
 else:
     print("true")
 
+if True:
+    print("a come alfabeto")
+else:
+    print("b come beta")
+
 
 
