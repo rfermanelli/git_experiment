@@ -1,5 +1,6 @@
 if True:
-    print("ciao")
+    for i in range(2):
+        print(i)
 elif False:
     c = [0, 1]
     for i in range(2):
