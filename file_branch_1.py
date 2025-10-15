@@ -1,4 +1,4 @@
 if True:
     b_ool = False
-else:
+elif False:
     b_ool = True
