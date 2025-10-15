@@ -1,5 +1,5 @@
 if True:
-    b_ool = False
+    print("ciao")
 elif False:
     c = [0, 1]
 elif True:
